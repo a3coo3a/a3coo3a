@@ -19,7 +19,7 @@ Skills: JAVA / JS / HTML / CSS / JQuery /SPRING / ORACLE / R
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/a3coo3a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://thumbsupgeuni.tistory.com/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a3coo3a&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=a3coo3a&show_icons=true&count_private=true&theme=dracula)  
 
 
 
