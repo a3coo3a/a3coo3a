@@ -21,11 +21,11 @@
 - 📫 How to reach me: a3coo3a@gmail.com 
 
 
-
+<!--
 <a href="https://github.com/a3coo3a">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=a3coo3a&show_icons=true&theme=dracula&include_all_commits=true" />
 </a>
-
+-->
 
 <a href="hhttps://github.com/a3coo3a">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3coo3a&layout=compact&theme=dracula" />
