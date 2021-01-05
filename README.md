@@ -19,10 +19,12 @@ Skills: JAVA / JS / HTML / CSS / JQuery /SPRING / ORACLE / R
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/a3coo3a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://thumbsupgeuni.tistory.com/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a3coo3a&show_icons=true&count_private=true&theme=dracula)  
-
-
-
+<a href="https://github.com/a3coo3a/a3coo3a">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a3coo3a&show_icons=true&count_private=true&theme=dracula" />
+</a>
+<a href="https://github.com/a3coo3a/a3coo3a">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</a>
 <!--
 **a3coo3a/a3coo3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
