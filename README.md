@@ -23,7 +23,7 @@ Skills: JAVA / JS / HTML / CSS / JQuery /SPRING / ORACLE / R
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=a3coo3a&show_icons=true&count_private=true&theme=dracula" />
 </a>
 <a href="https://github.com/a3coo3a/a3coo3a">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3coo3a&layout=compact" />
 </a>
 <!--
 **a3coo3a/a3coo3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
