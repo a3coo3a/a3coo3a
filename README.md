@@ -17,14 +17,11 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://jquery.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65069255/103619692-8a00ac80-4f75-11eb-8c96-801a305c5745.png" alt="jquery" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a><a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
   
   <br/>
+  
+  <h3>💪My Motto💃</h3>
+  
+![12-cutout](https://user-images.githubusercontent.com/65069255/103854295-78451380-50f3-11eb-8dbd-edac37720b0f.png)
 
-🔭 I’m currently working on RStudy
-
-🌱 I’m currently learning R
-
-💬 Ask me about me
-
-📫 How to reach me: a3coo3a@gmail.com
 
   <!--
   <a href="https://github.com/a3coo3a">
