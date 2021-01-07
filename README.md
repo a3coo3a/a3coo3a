@@ -18,9 +18,13 @@
   
   <br/>
   
-  <h3>💪My Motto💃</h3>
+  <h3>💪My Motto</h3>
   
 ![12-cutout](https://user-images.githubusercontent.com/65069255/103854295-78451380-50f3-11eb-8dbd-edac37720b0f.png)
+
+
+
+If you can't avoid Enjoy💃
 
 
   <!--
